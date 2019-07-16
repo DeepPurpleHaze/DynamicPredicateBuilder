@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPredicateBuilder", "DynamicPredicateBuilder\DynamicPredicateBuilder.csproj", "{73F903AA-7422-41A5-BFE2-83BC722CE1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPredicateBuilder.Tests", "DynamicPredicateBuilder.Tests\DynamicPredicateBuilder.Tests.csproj", "{68E137C1-C555-438E-A77F-F4F8C4FBD499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F903AA-7422-41A5-BFE2-83BC722CE1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F903AA-7422-41A5-BFE2-83BC722CE1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F903AA-7422-41A5-BFE2-83BC722CE1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F903AA-7422-41A5-BFE2-83BC722CE1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E137C1-C555-438E-A77F-F4F8C4FBD499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E137C1-C555-438E-A77F-F4F8C4FBD499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E137C1-C555-438E-A77F-F4F8C4FBD499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E137C1-C555-438E-A77F-F4F8C4FBD499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E301C1ED-5356-4B96-9449-9F5427300DFB}
+	EndGlobalSection
+EndGlobal
